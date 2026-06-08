@@ -1,0 +1,26 @@
+﻿Vendor_NAME,Vendor_SSN,Vendor_STREET,Vendor_CITY,Vendor_STATE,Vendor_COUNTRY,Vendor_ZIP,Vendor_PHONE,Vendor_EMAIL
+john doe,123456789,main street,New York,NY,USA,10001,1234567890,john@vendor.com
+jane smith,987654321,oak avenue,Los Angeles,CA,USA,90001,9876543210,jane@vendor.com
+acme corp,111223333,industrial pkwy,Chicago,IL,USA,60601,5556667777,info@acme.com
+global logistics,444555666,harbor way,Seattle,WA,USA,98101,2065550143,shipping@global.com
+tech solutions,777888999,silicon valley blvd,San Jose,CA,USA,95101,4085550199,support@techsol.com
+apex systems,222333444,broadway,New York,NY,USA,10003,2125550112,contact@apex.com
+matrix media,555666777,sunset blvd,Los Angeles,CA,USA,90028,3235550187,ads@matrix.com
+vanguard holdings,888999000,market st,San Francisco,CA,USA,94103,4155550155,invest@vanguard.com
+zenith retail,123123123,peach tree st,Atlanta,GA,USA,30303,4045550121,sales@zenith.com
+horizon health,321321321,medical center dr,Houston,TX,USA,77030,7135550144,billing@horizon.com
+omega utilities,456456456,power plant rd,Columbus,OH,USA,43215,6145550166,service@omega.com
+alpha manufacturing,654654654,factory lane,Detroit,MI,USA,48201,3135550177,parts@alpha.com
+delta aviation,789789789,airport blvd,Miami,FL,USA,33122,3055550188,cargo@delta.com
+sigma consulting,987987987,wall st,New York,NY,USA,10005,2125550199,consult@sigma.com
+prime organics,111444777,farm to market rd,Austin,TX,USA,78701,5125550133,fresh@prime.com
+quantum tech,222555888,innovation way,Boston,MA,USA,2108,6175550122,lab@quantum.com
+liberty law,333666999,justice square,Philadelphia,PA,USA,19106,2155550155,legal@liberty.com
+summit enterprise,444777000,alpine ridge,Denver,CO,USA,80202,3035550166,corporate@summit.com
+beacon security,555888111,watchtower st,Phoenix,AZ,USA,85001,6025550111,guards@beacon.com
+nova ventures,666999222,starship lane,Huntsville,AL,USA,35801,2565550144,space@nova.com
+pioneer rails,777000333,station plaza,Chicago,IL,USA,60607,3125550188,tracks@pioneer.com
+legacy textiles,888111444,cotton mill rd,Charlotte,NC,USA,28202,7045550177,fabrics@legacy.com
+clearwater water,999222555,reservoir dr,Las Vegas,NV,USA,89101,7025550199,aqua@clearwater.com
+ironworks construction,123450000,anvil way,Pittsburgh,PA,USA,15201,4125550122,steel@ironworks.com
+faulty ssn row,12345-bad,broken rd,Miami,FL,USA,33101,4445556666,bad@vendor.com
