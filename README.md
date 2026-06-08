@@ -1,0 +1,1 @@
+UpCase(Field(DSLink3.Vendor_NAME, " ", 1)[1,1]) : DownCase(Field(DSLink3.Vendor_NAME, " ", 1)[2, Len(Field(DSLink3.Vendor_NAME, " ", 1)) - 1]) : " " : UpCase(Field(DSLink3.Vendor_NAME, " ", 2)[1,1]) : DownCase(Field(DSLink3.Vendor_NAME, " ", 2)[2, Len(Field(DSLink3.Vendor_NAME, " ", 2)) - 1])
